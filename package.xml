@@ -3,8 +3,9 @@
   <name>ur3ehand_description</name>
   <version>0.0.0</version>
   <description>Description package for UR3e with custom hand end effector</description>
-
-  <maintainer email="steven.swanbeck@gmail.com">steven</maintainer>
+  <author email="steven.swanbeck@gmail.com">Steven Swanbeck</author>
+  <maintainer email="steven.swanbeck@gmail.com">Steven Swanbeck</maintainer>
+  
   <license>BSD</license>
 
 
